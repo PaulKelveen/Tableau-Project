@@ -6,7 +6,7 @@ The goal of this project is to create and create insights using various visualiz
 With the insights generated, stakeholders and end users can better understand the changes in real estate prices over the years across various districts in Canada and also see how that compares with changes in earnings over the years as well.
 
 ## Process
-I started the project by reading the instructions and understanding each of the possible options available to me.
+I started the project by reading the instructions and understanding each of the possible options available to me. (`<br>`)
 After completing the review, I decided to go with Option 1.
 Once that was done, first step was to download the data sets made available to me.
 Secondly, I uploaded all the datasets to Tableau, including the CSV and JSON file types.
